@@ -1,0 +1,41 @@
+{
+    "name": "OpenRasta",
+    "description": "<p>OpenRasta is an open-source .NET framework for building everything web, from web sites to RESTful APIs. Written from the ground-up with testing in mind, OpenRasta removes the faff from your code and lets you concentrate on writing clean, beautiful code. Proven in the real world, OpenRasta is the perfect choice for building scalable, high-performance, reliable web services.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/OpenRasta-Logo.png",
+    "tags": [
+        "deployment",
+        "framework",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openrasta\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenRasta",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/OpenRasta-Logo.png",
+            "humanURL": "http:\/\/openrasta.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openrasta-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/openrasta"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openrasta.org\/"
+        }
+    ]
+}
